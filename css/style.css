@@ -33,6 +33,12 @@ body{
   justify-content: space-between;
 }
 
+.btn{
+  background-color: #2d2d2d;
+  padding: 24px 64px;
+  color: white;
+  display: inline-block;
+}
 
 
 header nav{
@@ -45,9 +51,71 @@ header .menu a{
   line-height: 159%;
   margin: 0 12px;
 }
+.heroSection{
+  padding: 42px 0;
+}
 
 .text{
-  width: 60%;
+  width: 65%;
   margin: auto;
-  padding: 58px 56px;
+}
+.text h5{
+  font-weight: 600;
+font-size: 20px;
+line-height: 150%;
+}
+
+.text h1{
+  font-weight: 600;
+font-size: 68px;
+margin: 24px 0;
+}
+
+.text p{
+  font-weight: 400;
+font-size: 17px;
+line-height: 159%;
+margin: 0 0 48px 0;
+}
+
+.image{
+  width: 35%;
+  padding: 42px 28px;
+}
+
+
+.product{
+  width: 33.33%;
+  text-align: center;
+
+}
+
+
+.review h1{
+  text-align: center;
+  margin: 96px 0 48px 0;
+}
+
+.rbox{
+  background-color: #f3f3f3;
+  width: 31.5%;
+  margin: 12px 12px;
+}
+
+.rebox{
+  margin: 42px;
+}
+
+.rebox p{
+  margin: 5px 0 0 0;
+}
+.reimg{
+margin: 0 16px 0 0;
+
+}
+
+.starName h3{
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 150%;
 }
